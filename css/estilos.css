@@ -53,6 +53,7 @@ height: 25%;
 object-fit: fill;
 }
 
-
+.mapa{display: flex;
+flex-wrap: wrap;}
 
 
